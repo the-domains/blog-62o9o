@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T01:46:13.805Z'
+datePublished: '2016-08-22T01:46:57.375Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ keywords:
   - opts
 related: []
 author: []
-dateModified: '2016-08-22T01:46:13.552Z'
+dateModified: '2016-08-22T01:46:57.081Z'
 title: 'Reduced Spoke Bicycles : Conceptual Bike'
 app_links: []
 publisher:
