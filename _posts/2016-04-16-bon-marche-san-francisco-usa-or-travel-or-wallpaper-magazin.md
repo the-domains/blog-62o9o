@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-22T01:42:40.266Z'
+datePublished: '2016-08-22T01:48:41.876Z'
 sourcePath: >-
   _posts/2016-04-16-bon-marche-san-francisco-usa-or-travel-or-wallpaper-magazin.md
 inFeed: true
-isBasedOnUrl: 'http://www.wallpaper.com/travel/usa/san-francisco/restaurants/bon-march'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - bon
   - semmelhack
@@ -21,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-22T01:42:39.985Z'
+dateModified: '2016-08-22T01:48:41.588Z'
 title: 'Bon Marché, San Francisco, USA.'
 app_links: []
 publisher:
@@ -39,6 +38,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: bon-marche-san-francisco-usa/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
