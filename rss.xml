@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BLOG]]></title>
+        <description><![CDATA[BLOG]]></description>
+        <link>https://thegrid.ai/kendra_turner/blog/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 02:20:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kendra_turner/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Changed Perspective]]></title>
+            <description><![CDATA[<article><h1>A Changed Perspective</h1><p>August 21, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6afc4211-0f50-4dcc-adf0-6ed7c963e7ee.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kendra_turner/blog/a-changed-perspective/index.html</link>
+            <guid isPermaLink="false">81606e15-d5f7-494d-baf3-c0c0f710c913</guid>
+            <pubDate>Mon, 22 Aug 2016 02:20:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
