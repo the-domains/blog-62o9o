@@ -1,4 +1,3 @@
-layout_spectrum: 0.821984012844041
 typography_spectrum: 0.3896180752199143
 color:
   brandStrength: 0.8704913421534002
@@ -11,6 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.821984012844041
 name: BLOG
 navigation:
   - name: 'EXISTENCE, CONSCIOUSNESS, BLISS'
@@ -24,5 +24,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/19a54230-17d9-4997-b25d-07698e0b6152.png
-title: In Spirit of You
+title: BLOG
 description: Blog
