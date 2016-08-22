@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T01:49:26.545Z'
+datePublished: '2016-08-22T02:10:59.285Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 hasPage: true
@@ -16,25 +16,24 @@ keywords:
   - opts
 related: []
 author: []
-dateModified: '2016-08-22T01:49:26.260Z'
-title: 'Reduced Spoke Bicycles : Conceptual Bike'
+via: {}
+dateModified: '2016-08-22T02:10:58.813Z'
+title: A Change Perspective
 app_links: []
 publisher:
   url: 'http://www.trendhunter.com'
   name: TrendHunter.com
   favicon: 'http://cdn.trendhunterstatic.com/favicon.ico'
   domain: www.trendhunter.com
-description: >-
-  Conceptual Bike - Ion Lucin has simplified the design of a standard
-  two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a
-  limited use of lin...
+description: 'Looking at life different will yield different outcomes. '
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 url: reduced-spoke-bicycles-conceptual-bike/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="http://cdn.trendhunterstatic.com/thumbs/conceptual-bike.jpeg" /></article>
+# A Change Perspective
+
+Looking at life different will yield different outcomes.
