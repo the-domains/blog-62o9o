@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T02:15:57.405Z'
+datePublished: '2016-08-22T02:16:53.490Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 hasPage: true
@@ -17,14 +17,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-22T02:15:22.568Z'
+dateModified: '2016-08-22T02:16:53.193Z'
 title: A Changed Perspective
 app_links: []
-publisher:
-  url: 'http://www.trendhunter.com'
-  name: TrendHunter.com
-  favicon: 'http://cdn.trendhunterstatic.com/favicon.ico'
-  domain: www.trendhunter.com
+publisher: {}
 description: 'August 21, 2016'
 inLanguage: en
 inNav: false
@@ -34,9 +30,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6afc4211-0f50-4dcc-adf0-6ed7c963e7ee.jpg)
+
 # A Changed **Perspective**
 
 August 21, 2016
 
 Look at life different and it will yield a different outcome."--Kendra Turner
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e7c925e-c541-4292-8ea5-1b8d76cd105c.jpg)
