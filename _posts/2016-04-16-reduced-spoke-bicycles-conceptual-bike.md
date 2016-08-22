@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T02:14:05.007Z'
+datePublished: '2016-08-22T02:15:57.405Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-22T02:14:04.782Z'
+dateModified: '2016-08-22T02:15:22.568Z'
 title: A Changed Perspective
 app_links: []
 publisher:
@@ -38,5 +38,5 @@ _type: MediaObject
 
 August 21, 2016
 
-Looking at life different will yield different outcomes.
+Look at life different and it will yield a different outcome."--Kendra Turner
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e7c925e-c541-4292-8ea5-1b8d76cd105c.jpg)
