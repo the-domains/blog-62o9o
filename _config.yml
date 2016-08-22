@@ -22,9 +22,6 @@ navigation:
   - name: SOUL LIFT
     id: 3fa97d21-a8e1-48d0-94cf-506393e1285b
     type: content
-  - name: A Changed Perspective
-    id: 81606e15-d5f7-494d-baf3-c0c0f710c913
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/19a54230-17d9-4997-b25d-07698e0b6152.png
 title: BLOG
