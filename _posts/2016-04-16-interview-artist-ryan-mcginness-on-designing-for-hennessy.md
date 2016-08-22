@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-22T01:42:40.276Z'
+datePublished: '2016-08-22T01:47:57.607Z'
 sourcePath: _posts/2016-04-16-interview-artist-ryan-mcginness-on-designing-for-hennessy.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle'
-hasPage: false
+hasPage: true
 keywords:
   - hennessy
   - mcginness
@@ -17,7 +16,7 @@ keywords:
   - brand
 related: []
 author: []
-dateModified: '2016-08-22T01:42:40.014Z'
+dateModified: '2016-08-22T01:47:57.342Z'
 title: 'Interview: Artist Ryan McGinness on Designing for Hennessy'
 app_links: []
 publisher:
@@ -35,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: interview-artist-ryan-mcginness-on-designing-for-hennessy/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
