@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T02:19:50.765Z'
+datePublished: '2016-08-22T02:20:27.590Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-22T02:18:51.961Z'
+dateModified: '2016-08-22T02:20:27.330Z'
 title: A Changed Perspective
 app_links: []
 publisher: {}
