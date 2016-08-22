@@ -1,4 +1,5 @@
-typography_spectrum: 0.3896180752199143
+layout_spectrum: 0.13238000450655818
+typography_spectrum: 0.8235645785462111
 color:
   brandStrength: 0.8704913421534002
   lightness: 0.04223801055923104
@@ -10,19 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.821984012844041
 name: BLOG
-navigation:
-  - name: 'EXISTENCE, CONSCIOUSNESS, BLISS'
-    id: 698886d1-ac3c-4409-8650-d066ec001ceb
-    type: content
-  - name: HER & HER
-    id: 2504cd94-db98-4ec9-963d-6e72129a6328
-    type: content
-  - name: SOUL LIFT
-    id: 3fa97d21-a8e1-48d0-94cf-506393e1285b
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19a54230-17d9-4997-b25d-07698e0b6152.png
-title: BLOG
-description: In Spirit of You
